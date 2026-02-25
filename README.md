@@ -1,6 +1,4 @@
-# media-audit-concensus-dashboard
 
-cat <<EOF > README.md
 # Llama 3 Media Bias Audit & Trust-Verifier
 
 This repository contains a graduate-level research project auditing the performance of **Llama 3 (8B)** and **Llama 3.2 (3B)** in detecting media bias within the MBIC (Media Bias Instruction Corpus) dataset.
